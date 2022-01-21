@@ -1,0 +1,42 @@
+/*
+HEADER
+ */
+.header
+{
+	padding-top: 10px;
+	text-align: center;
+	color: red;	
+}
+
+/*
+Title 
+ */
+.title_add
+{
+	padding-top: 10px;
+	color: red;	
+	text-align: center;
+}
+
+.title_del
+{
+	padding-top: 10px;
+	color: red;
+	text-align: center;
+}
+
+/* 
+FONT
+*/
+body
+{
+    font-family: 'Oswald', sans-serif;
+
+}
+
+/*
+Table
+*/
+.table-responsive{
+    max-height: 390px;
+}
